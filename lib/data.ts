@@ -67,7 +67,7 @@ export const projectsData = [
       "Genius is an all in one platform which allows you to generate AI content 10x faster. It includes a conversation, image, video, music and code generation. Mobile responsive. Free trial available.",
     tags: ["Next.js", "Tailwind", "Prisma", "Shadcn", "Stripe"],
     imageUrl: aisaas,
-    url: "https://ai-saas-neon-phi.vercel.app",
+    url: "https://genius-monark-ai.vercel.app",
   },
   {
     title: "Crypto Hunter",
