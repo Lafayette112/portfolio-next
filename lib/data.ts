@@ -35,24 +35,24 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "Web Developer and Hardware Consultant",
-    location: "Uccle",
+    title: "Web Developer And Designer",
+    location: "Monark Solutions - Uccle",
     description:
-      "Front-End development, UI / UX Design and PC building for clients.",
+      "Front-End development, UI / UX Design.",
     icon: React.createElement(FaReact),
-    date: "2023",
+    date: "2024",
   },
   {
     title: "Computer Operator",
-    location: "Brussels",
+    location: "LFT Blue Store - Brussels",
     description:
-      "I worked as a computer operator for 3 years in LFT Blue Store. Coordinating team activities, writing technical documentations, managing the inventory and building PCs was my daily life.",
+      "I worked as a computer operator for 4 years in LFT Blue Store. Coordinating team activities, writing technical documentations, managing the inventory and building PCs was my daily life.",
     icon: React.createElement(CgWorkAlt),
-    date: "2020 - 2023",
+    date: "2020 - 2024",
   },
   {
     title: "Hotel and Restaurant Manager",
-    location: "Woluwe-Saint-Pierre",
+    location: "Eden Green - Woluwe-Saint-Pierre",
     description:
       "My first full time job in the hotel industry. The supervision of operations between services was quite challenging but motivating.",
     icon: React.createElement(LuGraduationCap),
@@ -97,7 +97,7 @@ export const skillsData = [
   "Node.js",
   "Tailwind",
   "Git",
-  "Webflow",
+  "WordPress",
   "Strapi",
   "MongoDB",
   "Supabase",
