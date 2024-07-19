@@ -52,7 +52,7 @@ export default function Intro() {
                 <span className="font-bold">{`Hello, I'm Renan.`}</span> {`I'm a`}{" "}
                 <span className="font-bold">frontend developer</span>. I enjoy
                 building <span className="italic">websites & apps</span> with {" "}
-                <span className="underline">React (Next.js)</span> and <span className="underline">Webflow</span>
+                <span className="underline">React (Next.js)</span> and <span className="underline">WordPress</span>
             </motion.h1>
 
             <motion.div 
